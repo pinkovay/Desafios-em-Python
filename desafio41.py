@@ -19,3 +19,6 @@ elif idade >= 26:
     print('Classificação: MASTER')
 else:
     print('Digite algo válido.')
+
+
+
